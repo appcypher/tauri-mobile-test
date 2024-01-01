@@ -1,0 +1,8 @@
+[app]
+name = "tauri-mobile-test"
+stylized-name = "Tauri Mobile Test"
+domain = "example.com"
+template-pack = "wry"
+
+[apple]
+development-team = "RMKX8F3JY7"

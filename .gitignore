@@ -1,0 +1,12 @@
+# Rust
+target/
+**/*.rs.bk
+
+# Js
+/node_modules
+
+# cargo-mobile2
+.cargo/
+/gen
+# macOS
+.DS_Store
